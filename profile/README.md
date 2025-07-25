@@ -7,9 +7,9 @@ International Human Resources Development Corporation (IHRDC) provides energy tr
 # Contact Information
 
 <ul><li>Business Address: 20 Park Plaza #900, Boston, Massachusetts 02116, United States</li>
-<li>Business Email: sales@ihrdc.com</li>
 <li>Business Phone: (617) 536-0202</li>
-<li>Hours of Operation: Monday - Friday: 8:30 a.m. - 5 p.m.</li></ul>
+<li>Hours of Operation: Monday - Friday: 8:30 a.m. - 5 p.m.</li>
+<li>Year Established: 1969</li></ul>
 
 # Social Media
 
