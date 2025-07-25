@@ -1,2 +1,0 @@
-# .github
-Competency Management System
