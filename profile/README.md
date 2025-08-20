@@ -2,7 +2,12 @@
 
 <strong>Empowering people to make a difference</strong>
 
-International Human Resources Development Corporation (IHRDC) provides energy training and talent development solutions as a trusted <a href="https://ihrdc.com/">oil and gas training institute</a>. We offer <a href="https://ihrdc.com/instructional-programs/">oil and gas training courses</a>, <a href="https://ihrdc.com/e-learning-solutions/">online oil and gas courses</a>, and a robust <a href="https://ihrdc.com/competency-management/">competency management system</a> to help companies build and maintain a highly skilled workforce. Start training with us today.
+IHRDC is a global oil and gas training institute offering advanced energy workforce programs. We deliver oil and gas training courses, flexible online oil and gas courses, and a reliable competency management system to support career growth. Our corporate training solutions integrate technical expertise with practical learning to create high-performing teams. As an industrial training provider, our structured skills assessment program helps identify workforce strengths and close knowledge gaps. Start shaping the next generation of energy leaders with professional development and training. Connect with us and design a program that encourages measurable impact.
+<br> "Learn more:<br>
+<a href="https://ihrdc.com/">Oil and Gas Training Institute</a> <br>
+<a href="https://ihrdc.com/instructional-programs/">Oil and Gas Training Courses</a> <br>
+<a href="https://ihrdc.com/e-learning-solutions/">Online Oil and Gas Courses</a> <br>
+<a href="https://ihrdc.com/competency-management/">Competency Management System"</a> <br>
 
 # Contact Information
 
